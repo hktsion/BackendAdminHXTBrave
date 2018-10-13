@@ -1,0 +1,1 @@
+<?php require_once '../controller/controller.admin-valform.php'; ?>
